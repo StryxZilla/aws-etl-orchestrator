@@ -1,7 +1,7 @@
 [
   {
     "ParameterKey": "SourceS3BucketName",
-    "ParameterValue": "awssalesdata"
+    "ParameterValue": "<NO-DEFAULT>"
   },
   {
     "ParameterKey": "SourceS3Key",
@@ -13,6 +13,6 @@
   },
   {
     "ParameterKey": "SourceDataBucketName",
-    "ParameterValue": "awssalesdatainput"
+    "ParameterValue": "<NO-DEFAULT>"
   }
 ]

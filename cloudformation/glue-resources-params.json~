@@ -1,11 +1,11 @@
 [
   {
     "ParameterKey": "S3ETLScriptPath",
-    "ParameterValue": "s3://awssalesdata/ETLScript"
+    "ParameterValue": "awssalesdata/ETLScript"
   },
   {
     "ParameterKey": "S3ETLOutputPath",
-    "ParameterValue": "s3://awssalesdata/ETLOutput"
+    "ParameterValue": "awssalesdata/ETLOutput"
   },
   {
     "ParameterKey": "SourceDataBucketName",

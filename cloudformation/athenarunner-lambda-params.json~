@@ -1,7 +1,7 @@
 [
   {
     "ParameterKey": "SourceS3BucketName",
-    "ParameterValue": "awssalesdata"
+    "ParameterValue": "awssalesdata.s3.amazonaws.com"
   },
   {
     "ParameterKey": "SourceS3Key",

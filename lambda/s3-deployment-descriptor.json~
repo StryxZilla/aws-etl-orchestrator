@@ -1,14 +1,14 @@
 {
   "athenarunner": {
-    "SourceS3BucketName": "awssalesdata",
+    "SourceS3BucketName": "awssalesdata.s3.amazonaws.com",
     "SourceS3Key":"src/athenarunner.zip"
   },
   "gluerunner": {
-    "SourceS3BucketName": "awssalesdata",
+    "SourceS3BucketName": "awssalesdata.s3.amazonaws.com",
     "SourceS3Key":"src/gluerunner.zip"
   },
   "ons3objectcreated": {
-    "SourceS3BucketName": "awssalesdata",
+    "SourceS3BucketName": "<NO-DEFAULT>",
     "SourceS3Key":"src/ons3objectcreated.zip"
   }
 }
